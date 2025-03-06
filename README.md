@@ -20,6 +20,6 @@ Then you need to open index.html file in your browser.
 
   ## Gameplay screenshots:
 
-  ![Image](https://github.com/mcjwsn/Zombie-Game/graphics/game_1.png)
-  ![Image](https://github.com/mcjwsn/Zombie-Game/graphics/game_2.png)
+  ![Image](https://github.com/mcjwsn/Zombie-Game/blob/main/graphics/game_1.png)
+  ![Image](https://github.com/mcjwsn/Zombie-Game/blob/main/graphics/game_2.png)
   
